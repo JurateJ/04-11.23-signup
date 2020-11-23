@@ -21,9 +21,9 @@ JJ
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at https://front-end-by-JurateJ.github.io
+Site published at https://juratej.github.io/04-11.23-signup/.
 
-Design: [Saas-one](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
+Design: [Sign-up](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
 
 
 ## Project features
